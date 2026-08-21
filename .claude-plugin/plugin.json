@@ -1,0 +1,16 @@
+{
+  "name": "clone-hunt",
+  "description": "Finds duplicated code with a cheap deterministic scan, ranks it by whether it is actually worth extracting, and guides the refactor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "patrickiel",
+    "url": "https://github.com/patrickiel"
+  },
+  "keywords": [
+    "duplication",
+    "refactoring",
+    "dry",
+    "clones"
+  ],
+  "homepage": "https://github.com/patrickiel/clone-hunt"
+}
