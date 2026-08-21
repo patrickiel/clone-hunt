@@ -12,5 +12,6 @@
     "dry",
     "clones"
   ],
-  "homepage": "https://github.com/patrickiel/clone-hunt"
+  "homepage": "https://github.com/patrickiel/clone-hunt",
+  "license": "MIT"
 }
