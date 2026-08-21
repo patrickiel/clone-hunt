@@ -4,7 +4,7 @@ A Claude Code plugin. Scans for duplicated code with jscpd, ranks each cluster
 by whether it is actually worth extracting (parameter count + git co-change),
 and guides the refactor.
 
-Current release: **v1.0.0**
+Current release: **v1.0.1**
 
 Requires `jscpd`: `npm install -g jscpd`
 
